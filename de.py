@@ -6,7 +6,7 @@
 import pygtk, pango
 pygtk.require('2.0')
 import gtk
-from Transcode.decoders import devanagari
+from decoders import devanagari
 
 help_string = '''
 अ	आ	इ	ई	उ	ऊ	ऋ	ॠ	ऌ	ॡ	ए	ऐ	ओ	औ	अं	अः
